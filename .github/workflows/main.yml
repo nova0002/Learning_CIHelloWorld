@@ -11,3 +11,7 @@ jobs:
 
       - name: Greeting
         run: echo "Hello, world!"
+        
+        
+      - name: Greeting
+        run: echo "Simulating an error!"
